@@ -1,0 +1,1 @@
+c++ -std=c++23 src/day_0.cpp && echo "OK"
