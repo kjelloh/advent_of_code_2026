@@ -2,6 +2,8 @@
 
 I find 'thinking by writing' is a valuable tool to figure stuff out and get a record of what I have done (and why)
 
+* I aim at only using manual look-up at [cppreference.com](https://cppreference.com)
+
 ## 20261120
 
 I am setting up for advent of code 2026.
