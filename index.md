@@ -4,5 +4,5 @@ I bet, in the age of AI, that it has never been more valuable to know how to 'ra
 
 This repo are my 2026 Advent of Code solutions 
 
-* [thinking](docs/thinking.md)
-* [days](day/index.md)
+* [thinking](./docs/thinking.md)
+* [days](./day/index.md)
